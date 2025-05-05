@@ -50,10 +50,7 @@ The dataset includes:
 
 - `COVID-19 Mortality Trends & Regional Comparisons.pbix`: Power BI report file
 - `COVID_Analysis.sql`: SQL scripts for preprocessing and advanced analysis
-
----
-
-## 📸 Dashboard Preview
+- `COVID-19-Mortality-Trends-Regional-Comparison.jpg : Screenshot Of the dashboard
 
 ---
 
